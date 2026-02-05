@@ -29,7 +29,10 @@ jobs:
           ruby-version: '3.1'
      
       - name: Install Bundler
-        run: gem install bundler    
+        run: gem install bundler  
+
+      - name: Install gems
+        run: bundle install
 
       - name: Build site
         run: bundle exec jekyll build
