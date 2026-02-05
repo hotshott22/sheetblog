@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/sheetblog/</id>
+  <id>http://localhost:4001/sheetblog/</id>
   <title>BloGhottt</title>
   <subtitle>A minimal, responsive, and powerful notes personal taking static webapp for regular use. .</subtitle>
-  <updated>2026-02-06T01:43:07+05:30</updated>
+  <updated>2026-02-06T01:53:16+05:30</updated>
   <author>
     <name>ht</name>
-    <uri>http://localhost:4000/sheetblog/</uri>
+    <uri>http://localhost:4001/sheetblog/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/sheetblog/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4001/sheetblog/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/sheetblog/"/>
+    href="http://localhost:4001/sheetblog/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2026 ht </rights>
   <icon>/sheetblog/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Secure Shell Key Pairs</title>
-    <link href="http://localhost:4000/sheetblog/posts/aws_ssh/" rel="alternate" type="text/html" title="Secure Shell Key Pairs" />
+    <link href="http://localhost:4001/sheetblog/posts/aws_ssh/" rel="alternate" type="text/html" title="Secure Shell Key Pairs" />
     <published>2022-07-03T13:10:00+05:30</published>
   
     <updated>2022-07-03T13:10:00+05:30</updated>
   
-    <id>http://localhost:4000/sheetblog/posts/aws_ssh/</id>
-    <content src="http://localhost:4000/sheetblog/posts/aws_ssh/" />
+    <id>http://localhost:4001/sheetblog/posts/aws_ssh/</id>
+    <content src="http://localhost:4001/sheetblog/posts/aws_ssh/" />
     <author>
       <name>ht</name>
     </author>
@@ -63,13 +63,13 @@ The industry-standard tool for safely encrypting remote login sessions is the Se
   
   <entry>
     <title>Securing Your AWS Resources</title>
-    <link href="http://localhost:4000/sheetblog/posts/aws_iam/" rel="alternate" type="text/html" title="Securing Your AWS Resources" />
+    <link href="http://localhost:4001/sheetblog/posts/aws_iam/" rel="alternate" type="text/html" title="Securing Your AWS Resources" />
     <published>2022-07-03T13:00:00+05:30</published>
   
     <updated>2022-07-03T13:00:00+05:30</updated>
   
-    <id>http://localhost:4000/sheetblog/posts/aws_iam/</id>
-    <content src="http://localhost:4000/sheetblog/posts/aws_iam/" />
+    <id>http://localhost:4001/sheetblog/posts/aws_iam/</id>
+    <content src="http://localhost:4001/sheetblog/posts/aws_iam/" />
     <author>
       <name>ht</name>
     </author>
@@ -104,13 +104,13 @@ We’ll start with IAM, whose management dashboard connects you to all the admin
   
   <entry>
     <title>Shared Responsibility Model:AWS</title>
-    <link href="http://localhost:4000/sheetblog/posts/aws_responsiblity_model/" rel="alternate" type="text/html" title="Shared Responsibility Model:AWS" />
+    <link href="http://localhost:4001/sheetblog/posts/aws_responsiblity_model/" rel="alternate" type="text/html" title="Shared Responsibility Model:AWS" />
     <published>2022-06-15T13:25:00+05:30</published>
   
     <updated>2022-06-15T13:25:00+05:30</updated>
   
-    <id>http://localhost:4000/sheetblog/posts/aws_responsiblity_model/</id>
-    <content src="http://localhost:4000/sheetblog/posts/aws_responsiblity_model/" />
+    <id>http://localhost:4001/sheetblog/posts/aws_responsiblity_model/</id>
+    <content src="http://localhost:4001/sheetblog/posts/aws_responsiblity_model/" />
     <author>
       <name>ht</name>
     </author>
@@ -147,13 +147,13 @@ AWS is also on the hook for patching, encrypting (where relevant), and maintaini
   
   <entry>
     <title>Edge Locations:AWS Global Infrastructure</title>
-    <link href="http://localhost:4000/sheetblog/posts/aws_edge/" rel="alternate" type="text/html" title="Edge Locations:AWS Global Infrastructure" />
+    <link href="http://localhost:4001/sheetblog/posts/aws_edge/" rel="alternate" type="text/html" title="Edge Locations:AWS Global Infrastructure" />
     <published>2022-06-15T13:20:00+05:30</published>
   
     <updated>2022-06-15T13:20:00+05:30</updated>
   
-    <id>http://localhost:4000/sheetblog/posts/aws_edge/</id>
-    <content src="http://localhost:4000/sheetblog/posts/aws_edge/" />
+    <id>http://localhost:4001/sheetblog/posts/aws_edge/</id>
+    <content src="http://localhost:4001/sheetblog/posts/aws_edge/" />
     <author>
       <name>ht</name>
     </author>
@@ -190,13 +190,13 @@ That definition is correct, but it does sound suspiciously like the way you’d 
   
   <entry>
     <title>Availability Zones:AWS Global Infrastructure</title>
-    <link href="http://localhost:4000/sheetblog/posts/aws_az/" rel="alternate" type="text/html" title="Availability Zones:AWS Global Infrastructure" />
+    <link href="http://localhost:4001/sheetblog/posts/aws_az/" rel="alternate" type="text/html" title="Availability Zones:AWS Global Infrastructure" />
     <published>2022-06-15T12:50:00+05:30</published>
   
     <updated>2022-06-15T12:50:00+05:30</updated>
   
-    <id>http://localhost:4000/sheetblog/posts/aws_az/</id>
-    <content src="http://localhost:4000/sheetblog/posts/aws_az/" />
+    <id>http://localhost:4001/sheetblog/posts/aws_az/</id>
+    <content src="http://localhost:4001/sheetblog/posts/aws_az/" />
     <author>
       <name>ht</name>
     </author>
