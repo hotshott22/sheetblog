@@ -1,40 +1,42 @@
 const resource = [
     /* --- CSS --- */
-    '/assets/css/style.css',
+    '/sheetblog/assets/css/style.css',
 
     /* --- PWA --- */
-    '/app.js',
-    '/sw.js',
+    '/sheetblog/app.js',
+    '/sheetblog/sw.js',
 
     /* --- HTML --- */
-    '/index.html',
-    '/404.html',
+    '/sheetblog/index.html',
+    '/sheetblog/404.html',
 
     
-        '/categories/',
+        '/sheetblog/categories/',
     
-        '/tags/',
+        '/sheetblog/tags/',
     
-        '/archives/',
+        '/sheetblog/archives/',
     
-        '/about/',
+        '/sheetblog/about/',
+    
+        '/sheetblog/news/',
     
 
     /* --- Favicons & compressed JS --- */
     
     
-        '/assets/img/favicons/android-chrome-192x192.png',
-        '/assets/img/favicons/android-chrome-512x512.png',
-        '/assets/img/favicons/apple-touch-icon.png',
-        '/assets/img/favicons/favicon-16x16.png',
-        '/assets/img/favicons/favicon-32x32.png',
-        '/assets/img/favicons/favicon.ico',
-        '/assets/img/favicons/mstile-150x150.png',
-        '/assets/js/dist/categories.min.js',
-        '/assets/js/dist/commons.min.js',
-        '/assets/js/dist/misc.min.js',
-        '/assets/js/dist/page.min.js',
-        '/assets/js/dist/post.min.js'
+        '/sheetblog/assets/img/favicons/android-chrome-192x192.png',
+        '/sheetblog/assets/img/favicons/android-chrome-512x512.png',
+        '/sheetblog/assets/img/favicons/apple-touch-icon.png',
+        '/sheetblog/assets/img/favicons/favicon-16x16.png',
+        '/sheetblog/assets/img/favicons/favicon-32x32.png',
+        '/sheetblog/assets/img/favicons/favicon.ico',
+        '/sheetblog/assets/img/favicons/mstile-150x150.png',
+        '/sheetblog/assets/js/dist/categories.min.js',
+        '/sheetblog/assets/js/dist/commons.min.js',
+        '/sheetblog/assets/js/dist/misc.min.js',
+        '/sheetblog/assets/js/dist/page.min.js',
+        '/sheetblog/assets/js/dist/post.min.js'
 ];
 
 /* The request url with below domain will be cached */

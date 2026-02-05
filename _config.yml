@@ -21,9 +21,9 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: BloGsmith                        # the main title
+title: BloGhottt                        # the main title
 
-tagline: Smithing Blogs   # it will display as the sub-title
+tagline: hottt   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful notes personal taking static webapp for regular use. .

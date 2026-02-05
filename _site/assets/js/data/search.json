@@ -2,7 +2,7 @@
   
   {
     "title": "Secure Shell Key Pairs",
-    "url": "/posts/aws_ssh/",
+    "url": "/sheetblog/posts/aws_ssh/",
     "categories": "AWS, Cloud, Notes",
     "tags": "aws, ssh, security",
     "date": "2022-07-03 13:10:00 +0530",
@@ -19,7 +19,7 @@
   
   {
     "title": "Securing Your AWS Resources",
-    "url": "/posts/aws_iam/",
+    "url": "/sheetblog/posts/aws_iam/",
     "categories": "AWS, Cloud, Notes",
     "tags": "aws, iam, security",
     "date": "2022-07-03 13:00:00 +0530",
@@ -36,7 +36,7 @@
   
   {
     "title": "Shared Responsibility Model:AWS",
-    "url": "/posts/aws_responsiblity_model/",
+    "url": "/sheetblog/posts/aws_responsiblity_model/",
     "categories": "AWS, Cloud, Notes",
     "tags": "aws, regions, infrastructure, online",
     "date": "2022-06-15 13:25:00 +0530",
@@ -53,7 +53,7 @@
   
   {
     "title": "Edge Locations:AWS Global Infrastructure",
-    "url": "/posts/aws_edge/",
+    "url": "/sheetblog/posts/aws_edge/",
     "categories": "AWS, Cloud, Notes",
     "tags": "aws, egde, infrastructure, online",
     "date": "2022-06-15 13:20:00 +0530",
@@ -70,7 +70,7 @@
   
   {
     "title": "Availability Zones:AWS Global Infrastructure",
-    "url": "/posts/aws_az/",
+    "url": "/sheetblog/posts/aws_az/",
     "categories": "AWS, Cloud, Notes",
     "tags": "aws, azs, infrastructure, online",
     "date": "2022-06-15 12:50:00 +0530",
@@ -87,7 +87,7 @@
   
   {
     "title": "Regions:AWS Global Infrastructure",
-    "url": "/posts/aws_regions/",
+    "url": "/sheetblog/posts/aws_regions/",
     "categories": "AWS, Cloud, Notes",
     "tags": "aws, regions, infrastructure, online",
     "date": "2022-06-15 12:40:00 +0530",
@@ -104,7 +104,7 @@
   
   {
     "title": "Documentation and Online Support in AWS",
-    "url": "/posts/aws_docs_other/",
+    "url": "/sheetblog/posts/aws_docs_other/",
     "categories": "AWS, Cloud, Notes",
     "tags": "aws, support, documentation, online",
     "date": "2022-06-13 18:29:00 +0530",
@@ -121,7 +121,7 @@
   
   {
     "title": "AWS Support Types",
-    "url": "/posts/aws_support/",
+    "url": "/sheetblog/posts/aws_support/",
     "categories": "AWS, Cloud, Notes",
     "tags": "aws, support",
     "date": "2022-06-13 17:30:00 +0530",
@@ -138,7 +138,7 @@
   
   {
     "title": "AWS Cost Explorer",
-    "url": "/posts/aws_cost_explorer/",
+    "url": "/sheetblog/posts/aws_cost_explorer/",
     "categories": "AWS, Cloud, Notes",
     "tags": "aws, cost, budgets",
     "date": "2022-06-12 17:29:00 +0530",
@@ -155,7 +155,7 @@
   
   {
     "title": "AWS Budgets",
-    "url": "/posts/aws_budgets/",
+    "url": "/sheetblog/posts/aws_budgets/",
     "categories": "AWS, Cloud, Notes",
     "tags": "aws, billing, budgets",
     "date": "2022-06-12 17:25:00 +0530",
@@ -172,7 +172,7 @@
   
   {
     "title": "AWS Free Tier",
-    "url": "/posts/aws_free_tier/",
+    "url": "/sheetblog/posts/aws_free_tier/",
     "categories": "AWS, Cloud, Notes",
     "tags": "aws, freetier",
     "date": "2022-06-12 17:01:00 +0530",
@@ -189,7 +189,7 @@
   
   {
     "title": "Scaliblity and Elasticity in Cloud",
-    "url": "/posts/scalablity_elasticity/",
+    "url": "/sheetblog/posts/scalablity_elasticity/",
     "categories": "AWS, Cloud, Notes",
     "tags": "aws, cloud, scalablity, elasticity, notes",
     "date": "2022-06-12 10:05:00 +0530",
@@ -206,7 +206,7 @@
   
   {
     "title": "Serverless Workloads and AWS Lambda",
-    "url": "/posts/serverless_workload/",
+    "url": "/sheetblog/posts/serverless_workload/",
     "categories": "AWS, Cloud, Notes",
     "tags": "aws, serverless, workloads, notes, awslambda",
     "date": "2022-06-12 09:57:00 +0530",
@@ -223,7 +223,7 @@
   
   {
     "title": "Server Virtualization",
-    "url": "/posts/Server_virtualization/",
+    "url": "/sheetblog/posts/Server_virtualization/",
     "categories": "AWS, Cloud, Notes",
     "tags": "aws, cloud, virtualmachines, notes",
     "date": "2022-06-11 12:00:00 +0530",
@@ -240,7 +240,7 @@
   
   {
     "title": "Cloud Platform Model",
-    "url": "/posts/Cloud_platform_model/",
+    "url": "/sheetblog/posts/Cloud_platform_model/",
     "categories": "AWS, Cloud, Notes",
     "tags": "aws, cloud, saas, paas, iaas, notes",
     "date": "2022-06-11 04:37:00 +0530",
@@ -257,7 +257,7 @@
   
   {
     "title": "What is cloud?",
-    "url": "/posts/What_is_cloud/",
+    "url": "/sheetblog/posts/What_is_cloud/",
     "categories": "AWS, Cloud, Notes",
     "tags": "aws, cloud, whatiscloud, notes",
     "date": "2022-06-11 03:37:00 +0530",
